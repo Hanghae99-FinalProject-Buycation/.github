@@ -1,5 +1,4 @@
-![화면 캡처 2023-01-26 192004](https://user-images.githubusercontent.com/115356113/215705324-cfffa5bc-1c5f-4575-bbe6-aa8dbc348952.png)
-
+![화면 캡처 2023-01-31 182046](https://user-images.githubusercontent.com/115356113/215719627-d60f7e2c-ff5c-465c-bbae-c21e7a7434e3.png)
 # 항해99 실전 프로젝트 - 바이케이션
 
 + 함께 구매하고 나누고 즐기는 형태 공동 구매 플랫폼
