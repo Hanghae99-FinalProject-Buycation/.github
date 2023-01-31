@@ -1,4 +1,4 @@
-![화면 캡처 2023-01-26 192004](https://user-images.githubusercontent.com/115356113/215719820-f382aa52-8ab8-4fbc-96ae-1dcbf95e2167.png)
+![화면 캡처 2023-01-31 204007](https://user-images.githubusercontent.com/115356113/215815984-c5aad40a-56fc-456e-942e-fc0ef860451e.png)
 
 # 항해99 실전 프로젝트 - 바이케이션
 
